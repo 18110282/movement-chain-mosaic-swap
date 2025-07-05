@@ -1,0 +1,20 @@
+{
+  "name": "movement-swap-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@aptos-labs/ts-sdk": "^3.0.0",
+    "@okxconnect/aptos-provider": "^1.8.6",
+    "inquirer": "^8.2.6"
+  },
+  "dependencies": {
+    "@mosaicag/swap-widget": "^1.1.11"
+  }
+}
