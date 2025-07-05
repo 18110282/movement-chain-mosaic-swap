@@ -23,7 +23,10 @@ with options for repeated execution and randomized delay between swaps.
 ```bash
 git clone https://github.com/18110282/movement-chain-mosiac-swap.git
 ```
-### 3. Open folder in cmd or terminal in Visual Code, type: npm install
+### 3. Open folder in cmd or terminal in Visual Code, run:
+```bash
+npm install
+```
 ### 4. Configure your account: Edit the config.js file and paste your private key
  `   RAW_PRIVATE_KEY: "YOUR_PRIVATE_KEY",`
 
