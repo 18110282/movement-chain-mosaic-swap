@@ -21,7 +21,7 @@ with options for repeated execution and randomized delay between swaps.
 ### 1. Install Node.js (v20.15.0)
 ### 2. Download project:
 ```bash
-git clone https://github.com/18110282/movement-chain-mosiac-swap.git
+git clone https://github.com/18110282/movement-chain-mosaic-swap.git
 ```
 ### 3. Open folder in cmd or terminal in Visual Code, run:
 ```bash
